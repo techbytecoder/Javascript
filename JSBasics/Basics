@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Javascript basics</title>
+  </head>
+  <body>
+    <h1>Hello!</h1>
+    <h2>Welcome to javascript</h2>
+    <script src="JS2.js"></script>
+  </body>
+</html>
